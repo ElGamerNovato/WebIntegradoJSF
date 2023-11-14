@@ -1,0 +1,1 @@
+Este es nuestro proyecto final para el curso de Web Integrado. Usamos JSF, inicialmente usamos JSP. Recuerden que, para cambiar cualquier cosa, tienen que generar un PR (Pull Request). Los cambios los hacen en su computadora, y para subirlo al repositorio central, GitHub verá si es compatible; para eso es el Pull Request. Además les pondrá color verdesito en su GitHub ;D.
