@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="bdtransporte" type="javax.sql.DataSource">#Tue Nov 28 20:07:08 COT 2023
+jdbcDriver=com.mysql.jdbc.Driver
+password=
+userName=root
+jdbcUrl=jdbc\:mysql\://localhost\:3307/bdtransporte?zeroDateTimeBehavior\=convertToNull
+</Resource>
+</resources>
